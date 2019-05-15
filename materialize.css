@@ -1,6 +1,20 @@
 body{
-  background-color:#ff0303;
+  background-color:#030000;
   color: #1a16ff;
   text-align: center;
   text-emphasis-color:blue;
+  ;
+}
+
+#Anime{
+  background-image: url(klk.jpg);
+}
+
+#Kill_La_Kill{
+  background-image:linear-gradient(rgba(255, 0, 25, 0.5), rgba(0, 0, 255, 0.5)), url(klk.jpg);
+}
+
+#KLK{
+  background-image: url(klk.jpg);
+  background-size: fill;
 }
