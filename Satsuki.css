@@ -4,10 +4,3 @@ body{
   text-align: center;
   background-image: url(klk.jpg);
 }
-
-.brightness{
-  display: inline-block;
-}
-.brightness img:hover{
-  opacity: .6;
-}
