@@ -11,3 +11,16 @@ body{
 .brightness img:hover{
   opacity: .6;
 }
+
+p{
+  color:red;
+  text-align: center;
+}
+
+h3{
+  color:red;
+}
+
+#info{
+  color:blue;
+}

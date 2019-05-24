@@ -1,6 +1,13 @@
 body{
   background-color:#030000;
-  color: #1a16ff;
+  color: red;
   text-align: center;
   background-image: url(klk2.jpg);
+}
+
+.light{
+  display: inline-block;
+}
+.light img:hover{
+  opacity: .6;
 }

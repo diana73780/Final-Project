@@ -2,5 +2,16 @@ body{
   background-color:#030000;
   color: #1a16ff;
   text-align: center;
-  background-image: url(klk.jpg);
+  background-image:url(klk2.jpg);
+}
+
+.gloss{
+  display: inline-block;
+}
+.gloss img:hover{
+  opacity: .6;
+}
+
+p{
+  color:#00f9ff;
 }
