@@ -1,7 +1,7 @@
 body{
-  background-image: url(klk2.jpg);
+  background-image:linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), url(klk2.jpg);
   text-align: center;
-  color: #9370DB;
+  color: #00f9ff;
 }
 
 .hightlight{
