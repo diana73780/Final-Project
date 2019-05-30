@@ -11,3 +11,7 @@ body{
 .light img:hover{
   opacity: .6;
 }
+
+p{
+  color: white;
+}

@@ -1,8 +1,12 @@
 body{
-  background-color:#030000;
-  color: #1a16ff;
+  color:white;
   text-align: center;
   background-image:linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), url(klk2.jpg);
+  background-color:#030000;
+}
+
+#EliteFour2.jpg{
+  text-align: center;
 }
 
 .illumination{
@@ -10,4 +14,28 @@ body{
 }
 .illumination img:hover{
   opacity:.10;
+}
+
+h1{
+  color:white;
+}
+
+h2{
+  color:#f44242;
+}
+
+h3{
+  color:#FFD700;
+}
+
+h4{
+  color:#27fa00;
+}
+
+h5{
+  color: #00f9ff;
+}
+
+h6{
+  color: #fa00a4;
 }
